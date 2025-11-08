@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'us-east-1'
-        CLUSTER_NAME = 'acecloud-devops-use1-eks-cluster'
+        CLUSTER_NAME = 'my-eks-cluster'
     }
 
     stages {
